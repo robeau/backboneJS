@@ -1,0 +1,20 @@
+img {
+  width: 150px;
+}
+
+.contact-container {
+ float: left;
+ background-color: #F0F0F0;
+ margin: 2px;
+ padding: 2px;
+ border-radius: 5px;
+}
+
+div[class^="profile"]{
+  float: left;
+}
+
+span {
+ font-size: 16px;
+ color: #0000A0;
+}
